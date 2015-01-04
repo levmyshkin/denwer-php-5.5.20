@@ -1,0 +1,18 @@
+# This file is created by hosts update system
+# Please DO NOT modify and DO NOT delete it!
+# Following hosts will be deleted from 'hosts' on cleanup.
+
+127.0.0.1	localhost
+127.0.0.1	www.subdomain.localhost
+127.0.0.1	www.subdomain.test1.ru
+127.0.0.1	subdomain.localhost
+127.0.0.1	subdomain.test1.ru
+127.0.0.1	www.localhost
+127.0.0.1	www.test1.ru
+127.0.0.1	www.drupal8
+127.0.0.1	www.custom
+127.0.0.1	www.asdf
+127.0.0.1	test1.ru
+127.0.0.1	drupal8
+127.0.0.1	custom
+127.0.0.1	asdf

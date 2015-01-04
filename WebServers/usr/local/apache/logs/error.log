@@ -1,0 +1,11 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::bd42:f0ef:6d84:4892. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 04 15:17:06.196101 2015] [mpm_winnt:notice] [pid 3556:tid 484] AH00455: Apache/2.4.10 (Win32) PHP/5.5.20 configured -- resuming normal operations
+[Sun Jan 04 15:17:06.196101 2015] [mpm_winnt:notice] [pid 3556:tid 484] AH00456: Apache Lounge VC11 Server built: Jul 17 2014 11:50:08
+[Sun Jan 04 15:17:06.196101 2015] [core:notice] [pid 3556:tid 484] AH00094: Command line: 'httpd.exe -d Z:/usr/local/apache'
+[Sun Jan 04 15:17:06.207102 2015] [mpm_winnt:notice] [pid 3556:tid 484] AH00418: Parent: Created child process 4428
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::bd42:f0ef:6d84:4892. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::bd42:f0ef:6d84:4892. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 04 15:17:06.688129 2015] [mpm_winnt:notice] [pid 4428:tid 508] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 04 15:17:19.004834 2015] [:error] [pid 4428:tid 1028] [client 127.0.0.1:50705] PHP Fatal error:  Call to a member function get() on a non-object in Z:\\home\\drupal8\\www\\core\\lib\\Drupal.php on line 566
+[Sun Jan 04 15:18:08.150645 2015] [:error] [pid 4428:tid 1016] [client 127.0.0.1:50747] PHP Fatal error:  Call to a member function get() on a non-object in Z:\\home\\drupal8\\www\\core\\lib\\Drupal.php on line 566
+[Sun Jan 04 15:18:08.195647 2015] [:error] [pid 4428:tid 1016] [client 127.0.0.1:50747] PHP Fatal error:  Call to a member function get() on a non-object in Z:\\home\\drupal8\\www\\core\\lib\\Drupal.php on line 566
